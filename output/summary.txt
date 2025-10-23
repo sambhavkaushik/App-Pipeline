@@ -1,0 +1,10 @@
+=== APP USAGE SUMMARY REPORT ===
+
+Average Session Time per Country:
+  India: 32.0 mins
+  Usa: 45.0 mins
+  France: 60.0 mins
+
+Device Usage Counts:
+  Android: 2
+  Ios: 1

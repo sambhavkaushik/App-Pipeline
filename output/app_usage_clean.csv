@@ -1,0 +1,4 @@
+user_id,user_name,country,session_time,device,last_login,app_version
+101,Sam,India,32.0,Android,2025-10-01,1.2.1
+102,Lisa,Usa,45.0,Ios,2025-09-25,1.3.0
+104,Ana,France,60.0,Android,2025-09-29,1.2.1
