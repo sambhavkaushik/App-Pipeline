@@ -91,6 +91,6 @@ with report.open("w", encoding="utf-8") as f:
     for dev, cnt in devices.items():
         f.write(f"  {dev}: {cnt}\n")
 
-
+print()
 
 
