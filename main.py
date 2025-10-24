@@ -92,5 +92,6 @@ with report.open("w", encoding="utf-8") as f:
         f.write(f"  {dev}: {cnt}\n")
 
 print()
+print("Gello")
 
 
